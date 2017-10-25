@@ -1,3 +1,3 @@
 # FourierFaceShape
 
-Fourier shape descriptor for faces shape detection
+Fourier descriptor for faces shape classification
